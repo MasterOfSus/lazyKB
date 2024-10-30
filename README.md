@@ -1,5 +1,6 @@
 Git repo with cad files for the lazyKB build.
 The build is made for kailh choc V1 switches and a rpi pico controller, and to be handwired. The rows have diodes, the columns do not.
+
 The demo.dxf is a cad file for cutting in some way a plate (I cut it out of cardboard) to test out if the board tickles your fancy.
 
 IMPORTANT!
